@@ -402,6 +402,9 @@ header .container .links ul li:hover a {
   color: var(--secondColor);
   line-height: 1.6;
 }
+.portfolio .portfolio-content .card:hover {
+  box-shadow: 0px 3px 3px #0000001a;
+}
 .portfolio .portfolio-content .card:hover img {
   scale: 1.4;
   rotate: 5deg;
